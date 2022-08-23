@@ -12,10 +12,13 @@ hr{
 }
 
 .container {
-    padding: 1rem;
+    padding: 1rem 1rem;
+    
 }
 .container-center {
     padding: 1rem 1rem;
+    text-align: center;
+    
 } *
 /* .link{
     text-decoration: none;
@@ -32,10 +35,10 @@ hr{
 }
 .link-secondary {
     color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     text-decoration: none;
     border: 1px solid var(--primary-color);
-    padding: 1rem 1rem;
+    padding: .5rem 1rem;
 }
 .list-non-bullet {
     list-style: none;
@@ -78,12 +81,14 @@ text-align:center;
     text-align:center;
     padding: 1rem;
     max-width: 800px;
-    margin:auto;
+    margin:auto; 
+    
 }
 .ow {
   background-color: var(--off-white);
   text-align: center;
   padding: .5rem;
+  
 
 }
 .container-center {
