@@ -25,7 +25,6 @@ hr{
     padding: 1rem 1rem;
 }  */
 .link-primary { 
-    
     background-color: var(--primary-color);
     border-radius: 1rem;
     text-decoration: none;
@@ -42,6 +41,7 @@ hr{
 }
 .list-non-bullet {
     list-style: none;
+    padding-left: 0;
 }
 .list-item-inline {
     display: inline;
