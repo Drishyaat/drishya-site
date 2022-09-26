@@ -97,7 +97,7 @@ text-align:center;
 }
 .footer {
     background-color: var(--primary-color);
-    
+    margin-top: 1rem;
     padding: 2rem 1rem;
     text-align: center;
     color: black;
