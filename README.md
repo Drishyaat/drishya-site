@@ -16,6 +16,7 @@ Welcome to my portfolio...
 
 
 ## Contents
+
 This site contains my projects and dummy blogs. 
 It has a nav bar to navigate between home , projects and blogs. Project section contains links to live project as well as its source code on Github. Blogs section contains dummy blogs for now but will be updated soon. It also contains a footer with links to my social media pages.
 ---
